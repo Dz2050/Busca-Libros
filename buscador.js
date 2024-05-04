@@ -12,3 +12,6 @@ fetch('buscar.php', {
 .catch(error => {
     console.error('Error:', error);
 });
+
+
+

@@ -16,5 +16,6 @@
         <button type="submit">Vamos!</button>
     </form>
 
+    <script src="ubicacion.js"></script>
 </body>
 </html>
